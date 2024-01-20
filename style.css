@@ -1,0 +1,62 @@
+.heading
+{
+    font-size: 28px;
+    width: 100%;
+    margin: 0px;
+    text-shadow: 2px 2px black;
+    font-variant: small-caps;
+}
+.note
+{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px steelblue;
+    font-variant: none;
+}
+body
+{
+background-size: cover;
+font-family:'Courier New', Courier, monospace;
+}
+.div_speed
+{
+    float: left;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+    background-color: aliceblue;
+}
+.div_volume
+{
+    float: right;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+    background-color: aliceblue; 
+}
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+    border-radius: 35%;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
